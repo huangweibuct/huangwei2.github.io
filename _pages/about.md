@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Bio"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -24,7 +24,6 @@ From 2016 to 2018, I was Planner at the Ministry of Transportation Ontario, Cana
 - **Huang, W.** & Li, S. (2016). Understanding human activity pattern based on space-time-semantics. _ISPRS Journal of Photogrammetry and Remote Sensing_, 121, 1-10. (Best Paper)
 - **Huang, W.**, Sun, M. & Li, S. (2016). A 3D GIS-based interactive registration mechanism for outdoor augmented reality system. _Expert Systems with Applications_, 55, 48-58.
 - **Huang, W.**, Li, S. Liu, X., & Ban, Y. (2015). Predicting human mobility with activity changes. _International Journal of Geographical Information Science_, 29 (9), 1569-1587.
-#### For a full list of my publications, please refer to my [GoogleScholar](https://scholar.google.ca/citations?user=_Xdi93IAAAAJ&hl=en) or [ResearchGate](https://www.researchgate.net/profile/Wei-Huang-48) profile.
 
 ### Teaching
 #### At Heidelberg, Germany
