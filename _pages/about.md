@@ -30,11 +30,11 @@ Selected Publications
 Teaching
 ======
 ### At Ryerson, Canada
-- Fall 2019, 2020: Lecture for CVL736: Geospatial Information System (undergrad)
-- Winter 2020: Lecture for CV8501: Advanced Geospatial Information Systems (grad)
+- Fall 2019, 2020: CVL736-Geospatial Information System (undergrad)
+- Winter 2020: CV8501-Advanced Geospatial Information Systems (grad)
 
 ### At Heidelberg, Germany
-- Fall 2017: Lecture for Geospatial Analysis of Geosocial Media Data (undergrad & grad)
+- Fall 2017: Geospatial Analysis of Geosocial Media Data (undergrad & grad)
 
 Talks
 ======
