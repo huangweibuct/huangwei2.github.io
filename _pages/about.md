@@ -1,50 +1,36 @@
----
-permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
+### Bio
+I am Professor at the [Tongji University](https://celiang.tongji.edu.cn/index.php?classid=5786&t=show&id=4374) in Shanghai, China, and Adjunct Professor at Ryerson University, Toronto, Canada. My research interests lie at the intersection of GIScience, geography, computer science and computational social science, focusing on using GIS, geospatial big data and new sensing technologies to progress the understanding of the mechanism of the interaction between human activities, urban transportation and social events.
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+From 2016 to 2018, I was Planner at the Ministry of Transportation Ontario, Canada. I did my postdoc training in the [GIScience Research Group](https://www.geog.uni-heidelberg.de/gis/index_en.html), Institute of Geography at Heidelberg University, Germany between 2016 and 2018. Prior to Heidelberg, I received my PhD degree in Civil Engineering (Geomatics stream) from Ryerson University, Toronto, Canada in 2016. I received my master’s degree in Geographical Information Science (GIS) from Peking University and Central South University in 2011 and my bachelor’s degree in Computer Science and Technology from Beijing University of Chemical and Technology in 2008.
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+### Selected Honours 
+- [The U. V. Helava Award](https://www.isprs.org/society/awards/helava/2016.aspx) (Best Paper Award), International Society of Photogrammetry and Remote Sensing, 2016.
+- 1st Place PhD Best Paper Award, International Conference on Location-based Social Media Data. Athens, Georgia, USA. Mar. 13-14, 2015.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+### Selected Publications
+- Klumpenhouwer, W., & **Huang, W.*** (2021). A flexible framework for measuring accessibility with destination bundling. _Journal of Transport Geography_, 91, 102949.
+- **Huang, W.** & Li, S. (2018). An approach for understanding urban human activity patterns with the motivations. _International Journal of Geographical Information Science_, 33(2), 385-407.
+- **Huang, W.**, Xu., S., Yan, Y. & Zipf, A. (2018). An exploration of the interaction between human activities and daily traffic conditions: A case study of Toronto, Canada. _Cities_, 84, 8-22.
+- **Huang, W.**, Fan, H. & Zipf, A. (2017). Towards detecting the crowd involved in social events. _ISPRS International Journal of Geo-Information_, 6 (10), 305.
+- **Huang, W.** & Li, S. (2016). Understanding human activity pattern based on space-time-semantics. _ISPRS Journal of Photogrammetry and Remote Sensing_, 121, 1-10. (Best Paper)
+- **Huang, W.**, Sun, M. & Li, S. (2016). A 3D GIS-based interactive registration mechanism for outdoor augmented reality system. _Expert Systems with Applications_, 55, 48-58.
+- **Huang, W.**, Li, S. Liu, X., & Ban, Y. (2015). Predicting human mobility with activity changes. _International Journal of Geographical Information Science_, 29 (9), 1569-1587.
+#### For a full list of my publications, please refer to my [GoogleScholar](https://scholar.google.ca/citations?user=_Xdi93IAAAAJ&hl=en) or [ResearchGate](https://www.researchgate.net/profile/Wei-Huang-48) profile.
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+### Teaching
+#### At Heidelberg, Germany
+- Fall 2017: Lecture for Geospatial Analysis of Geosocial Media Data (undergrad & grad)
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+#### At Ryerson, Canada
+- Fall 2019, 2020: Lecture for CVL736: Geospatial Information System (undergrad)
+- Winter 2020: Lecture for CV8501: Advanced Geospatial Information Systems (grad)
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
-
-**Markdown generator**
-
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+### Talks
+- 7/11/2019: Modeling and understanding how people interact with urban environments using data-driven methods. The University of Hong Kong, China
+- 7/9/2018: Modeling and understanding urban activity patterns based on crowdsourced data. University of Electronic Science and Technology of China. Chengdu, China
+- 3/5/2018: How people live, work and play in cities. Peking University. Beijing, China 
+- 1/22/2018: How people live, work and play in cities. University of Toronto. Toronto, Canada
+- 9/17/2017: Towards understanding human activity patterns based on crowdsourcing data. Wuhan University. Wuhan, China
+- 9/1/2017: Modelling intra-urban human activity patterns using crowdsourcing and geosocial media data. Heidelberg University. Heidelberg, Germany
+- 7/7/2016: Understanding human activity patterns in urban environments. New York University. New York, USA
+- Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
