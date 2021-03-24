@@ -12,11 +12,13 @@ I am Professor at the [Tongji University](https://celiang.tongji.edu.cn/index.ph
 
 From 2016 to 2018, I was Planner at the Ministry of Transportation Ontario, Canada. I did my postdoc training in the [GIScience Research Group](https://www.geog.uni-heidelberg.de/gis/index_en.html), Institute of Geography at Heidelberg University, Germany between 2016 and 2018. Prior to Heidelberg, I received my PhD degree in Civil Engineering (Geomatics stream) from Ryerson University, Toronto, Canada in 2016. I received my master’s degree in Geographical Information Science (GIS) from Peking University and Central South University in 2011 and my bachelor’s degree in Computer Science and Technology from Beijing University of Chemical and Technology in 2008.
 
-### Selected Honours 
+Selected Honours
+======
 - [The U. V. Helava Award](https://www.isprs.org/society/awards/helava/2016.aspx) (Best Paper Award), International Society of Photogrammetry and Remote Sensing, 2016.
 - 1st Place PhD Best Paper Award, International Conference on Location-based Social Media Data. Athens, Georgia, USA. Mar. 13-14, 2015.
 
-### Selected Publications
+Selected Publications
+======
 - Klumpenhouwer, W., & **Huang, W.*** (2021). A flexible framework for measuring accessibility with destination bundling. _Journal of Transport Geography_, 91, 102949.
 - **Huang, W.** & Li, S. (2018). An approach for understanding urban human activity patterns with the motivations. _International Journal of Geographical Information Science_, 33(2), 385-407.
 - **Huang, W.**, Xu., S., Yan, Y. & Zipf, A. (2018). An exploration of the interaction between human activities and daily traffic conditions: A case study of Toronto, Canada. _Cities_, 84, 8-22.
@@ -25,15 +27,17 @@ From 2016 to 2018, I was Planner at the Ministry of Transportation Ontario, Cana
 - **Huang, W.**, Sun, M. & Li, S. (2016). A 3D GIS-based interactive registration mechanism for outdoor augmented reality system. _Expert Systems with Applications_, 55, 48-58.
 - **Huang, W.**, Li, S. Liu, X., & Ban, Y. (2015). Predicting human mobility with activity changes. _International Journal of Geographical Information Science_, 29 (9), 1569-1587.
 
-### Teaching
-#### At Ryerson, Canada
+Teaching
+======
+### At Ryerson, Canada
 - Fall 2019, 2020: Lecture for CVL736: Geospatial Information System (undergrad)
 - Winter 2020: Lecture for CV8501: Advanced Geospatial Information Systems (grad)
 
-#### At Heidelberg, Germany
+### At Heidelberg, Germany
 - Fall 2017: Lecture for Geospatial Analysis of Geosocial Media Data (undergrad & grad)
 
-### Talks
+Talks
+======
 - 7/11/2019: Modeling and understanding how people interact with urban environments using data-driven methods. The University of Hong Kong, China
 - 7/9/2018: Modeling and understanding urban activity patterns based on crowdsourced data. University of Electronic Science and Technology of China. Chengdu, China
 - 3/5/2018: How people live, work and play in cities. Peking University. Beijing, China 
