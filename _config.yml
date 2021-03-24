@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Wei Huang"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "Professor of GIScience, Tongji University"
   location         : "Shanghai, China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.ca/citations?user=_Xdi93IAAAAJ&hl=en"
   email            : "wei_huang@tongji.edu.cn"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Wei-Huang-48"
   uri              :
   bitbucket        :
   codepen          :
