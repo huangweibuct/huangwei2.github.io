@@ -26,12 +26,12 @@ From 2016 to 2018, I was Planner at the Ministry of Transportation Ontario, Cana
 - **Huang, W.**, Li, S. Liu, X., & Ban, Y. (2015). Predicting human mobility with activity changes. _International Journal of Geographical Information Science_, 29 (9), 1569-1587.
 
 ### Teaching
-#### At Heidelberg, Germany
-- Fall 2017: Lecture for Geospatial Analysis of Geosocial Media Data (undergrad & grad)
-
 #### At Ryerson, Canada
 - Fall 2019, 2020: Lecture for CVL736: Geospatial Information System (undergrad)
 - Winter 2020: Lecture for CV8501: Advanced Geospatial Information Systems (grad)
+
+#### At Heidelberg, Germany
+- Fall 2017: Lecture for Geospatial Analysis of Geosocial Media Data (undergrad & grad)
 
 ### Talks
 - 7/11/2019: Modeling and understanding how people interact with urban environments using data-driven methods. The University of Hong Kong, China
