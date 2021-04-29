@@ -38,6 +38,7 @@ Teaching
 
 Talks
 ======
+- 8/3/2020: Towards understanding the interaction between people, social events and urban mobility using data-driven methods. Nation University of Singapore. Singapore
 - 7/11/2019: Modeling and understanding how people interact with urban environments using data-driven methods. The University of Hong Kong, China
 - 7/9/2018: Modeling and understanding urban activity patterns based on crowdsourced data. University of Electronic Science and Technology of China. Chengdu, China
 - 3/5/2018: How people live, work and play in cities. Peking University. Beijing, China 
