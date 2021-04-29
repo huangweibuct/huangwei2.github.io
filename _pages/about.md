@@ -30,7 +30,7 @@ Selected Publications
 Teaching
 ======
 ### At Ryerson, Canada
-- Fall 2019, 2020: CVL736-Geospatial Information System (undergrad)
+- Fall 2019, 2020: CVL736-Geospatial Information Systems (undergrad)
 - Winter 2020: CV8501-Advanced Geospatial Information Systems (grad)
 
 ### At Heidelberg, Germany
@@ -45,4 +45,3 @@ Talks
 - 9/17/2017: Towards understanding human activity patterns based on crowdsourcing data. Wuhan University. Wuhan, China
 - 9/1/2017: Modelling intra-urban human activity patterns using crowdsourcing and geosocial media data. Heidelberg University. Heidelberg, Germany
 - 7/7/2016: Understanding human activity patterns in urban environments. New York University. New York, USA
-- Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
