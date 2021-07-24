@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Bio"
+title: "How can spatial big data as a tool help better understand unrban dynamics and socla events?"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
