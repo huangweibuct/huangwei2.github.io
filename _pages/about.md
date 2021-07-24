@@ -8,9 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am Professor at the [Tongji University](https://celiang.tongji.edu.cn/index.php?classid=5786&t=show&id=4374) in Shanghai, China, and Adjunct Professor at [Ryerson University](https://www.ryerson.ca/), Toronto, Canada. My research interests lie at the intersection of GIScience, geography, computer science and computational social science, focusing on using GIS, geospatial big data and new sensing technologies to progress the understanding of the mechanism of the interaction between human activities, urban transportation and social events.
+I am Professor at the [Tongji University](https://celiang.tongji.edu.cn/index.php?classid=5786&t=show&id=4374) in Shanghai, China, and Adjunct Professor at [Ryerson University](https://www.ryerson.ca/), Toronto, Canada. My research interests lie at the intersection of GIScience, geography, computer science and computational social science, focusing on using GIS, geospatial big data and new sensing technologies to progress the understanding of the mechanism of the interaction between human activities, urban transportation and social events. I serve as Associate Editor for [ISPRS IJGI](https://www.mdpi.com/journal/ijgi).
 
 From 2016 to 2018, I was Planner at the Ministry of Transportation Ontario, Canada. I did my postdoc training in the [GIScience Research Group](https://www.geog.uni-heidelberg.de/gis/index_en.html), Institute of Geography at Heidelberg University, Germany between 2016 and 2018. Prior to Heidelberg, I received my PhD degree in Civil Engineering (Geomatics stream) from [Ryerson University](https://www.ryerson.ca/), Toronto, Canada in 2016. I received my master’s degree in Geographical Information Science (GIS) from Peking University and Central South University in 2011 and my bachelor’s degree in Computer Science and Technology from Beijing University of Chemical and Technology in 2008.
+
+News
+======
+- 2021.7: Prof. Huang started servicve as Associate Editor for [ISPRS IJGI](https://www.mdpi.com/journal/ijgi), handeling manuscripts about Citizen Science, Crowd Sourcing and Volunteered Geographic Information.
 
 Selected Honours
 ======
