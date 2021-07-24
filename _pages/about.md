@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-How can spatial big data as a tool help better understand unrban dynamics and social events?
+How can spatial big data as a tool help better understand urban dynamics and social events?
 
 I am Professor at the [Tongji University](https://celiang.tongji.edu.cn/index.php?classid=5786&t=show&id=4374) in Shanghai, China, and Adjunct Professor at [Ryerson University](https://www.ryerson.ca/), Toronto, Canada. My research interests lie at the intersection of GIScience, geography, computer science and computational social science, focusing on using GIS, geospatial big data and new sensing technologies to progress the understanding of the mechanism of the interaction between human activities, urban transportation and social events. I serve as Associate Editor for [ISPRS IJGI](https://www.mdpi.com/journal/ijgi).
 
