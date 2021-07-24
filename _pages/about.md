@@ -14,7 +14,7 @@ From 2016 to 2018, I was Planner at the Ministry of Transportation Ontario, Cana
 
 News
 ======
-- 2021.7: Prof. Huang started service as Associate Editor for [ISPRS IJGI](https://www.mdpi.com/journal/ijgi), handeling manuscripts about Citizen Science, Crowd Sourcing and Volunteered Geographic Information.
+- 2021.7: Prof. Huang started service as Associate Editor for [ISPRS IJGI](https://www.mdpi.com/journal/ijgi), handeling manuscripts on Citizen Science, Crowd Sourcing and Volunteered Geographic Information.
 
 Selected Honours
 ======
