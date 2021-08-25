@@ -17,7 +17,7 @@ From 2016 to 2018, I was Planner at the Ministry of Transportation Ontario, Cana
 
 NEWS
 ======
-- 2021.8:Dr. Huang received an NSFC Grant. 
+- 2021.8: Dr. Huang received an NSFC Grant. 
 - 2021.7: Dr. Huang started service as Associate Editor for [ISPRS IJGI](https://www.mdpi.com/journal/ijgi), handeling manuscripts on Citizen Science, Crowd Sourcing and Volunteered Geographic Information.
 
 SELECTED HONOURS
